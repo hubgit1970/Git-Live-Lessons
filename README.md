@@ -4,4 +4,11 @@
 
 - `git add <FILE>`: adds <FILE> to the staging area
 - `git commit`: open a text editor to write commit messages
+    - `git commit -m "MESSAGE"`: writes MESSAGE as a commit without a text editor
+
+- `git log`: shows the log (history) of our commits
+    - `git log --oneline`: shos the shorter oneline commit
+
+
+
 
