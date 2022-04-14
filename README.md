@@ -20,5 +20,6 @@
         - `git checkout <HASH OR HEAD~>: if you forget the file, you end up in detached
         - `git checkout main`: go back to main
         - `git switch main`: go back to main 
-     
+# pat example
+a change using https and PAT     
 
